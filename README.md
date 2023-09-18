@@ -1,11 +1,8 @@
-# Верстка сайта строительной организации evklid
+# Adaptive landing page layout
 
-Учебный проект.
-
-Верстка по макету Figma:
-1. Чистая верстка на HTML5, CSS3 и JS
-2. Адаптивная верстка
+1. Website layout is made based on Figma templates.Чистая верстка на HTML5, CSS3 и JS
+2. Adaptive layout
 3. Pixel Perfect
-4. Подключение внешних библиотек: JQuery аккордеон, Слайдер, верификация полей форм
-5. Кастомизация чекбоксов
-6. Доступность сайта
+4. JQuery UI, Swiper Slider plugins used
+5. Custimized checkbox
+6. Website accesibility
